@@ -1,3 +1,7 @@
+## Environment
+1. Python2.7
+2. torch 1.2
+
 ## How to train
 
 ```
