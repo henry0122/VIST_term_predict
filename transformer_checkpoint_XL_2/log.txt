@@ -1,0 +1,18 @@
+| epoch  46 |   600/ 3380 batches | lr 0.01 | ms/batch 34.45 | loss  3.96 | ppl    52.48
+| epoch  46 |   800/ 3380 batches | lr 0.01 | ms/batch 35.93 | loss  3.96 | ppl    52.38
+| epoch  46 |  1000/ 3380 batches | lr 0.01 | ms/batch 29.71 | loss  3.94 | ppl    51.36
+| epoch  46 |  1200/ 3380 batches | lr 0.01 | ms/batch 26.22 | loss  3.96 | ppl    52.40
+| epoch  46 |  1400/ 3380 batches | lr 0.01 | ms/batch 26.58 | loss  3.94 | ppl    51.36
+| epoch  46 |  1600/ 3380 batches | lr 0.01 | ms/batch 40.16 | loss  3.92 | ppl    50.62
+| epoch  46 |  1800/ 3380 batches | lr 0.01 | ms/batch 45.75 | loss  3.91 | ppl    49.68
+| epoch  46 |  2000/ 3380 batches | lr 0.01 | ms/batch 35.66 | loss  3.90 | ppl    49.59
+| epoch  46 |  2200/ 3380 batches | lr 0.01 | ms/batch 31.83 | loss  3.89 | ppl    48.90
+| epoch  46 |  2400/ 3380 batches | lr 0.01 | ms/batch 29.17 | loss  3.86 | ppl    47.24
+| epoch  46 |  2600/ 3380 batches | lr 0.01 | ms/batch 27.97 | loss  3.88 | ppl    48.62
+| epoch  46 |  2800/ 3380 batches | lr 0.01 | ms/batch 28.25 | loss  3.89 | ppl    49.07
+| epoch  46 |  3000/ 3380 batches | lr 0.01 | ms/batch 28.51 | loss  3.88 | ppl    48.25
+| epoch  46 |  3200/ 3380 batches | lr 0.01 | ms/batch 28.23 | loss  3.87 | ppl    48.03
+Validation Accuracy of epoch 46 : 0.0540690882795| epoch  47 |   200/ 3380 batches | lr 0.01 | ms/batch 46.73 | loss  4.00 | ppl    54.78
+| epoch  47 |   400/ 3380 batches | lr 0.01 | ms/batch 32.36 | loss  3.97 | ppl    52.92
+| epoch  47 |   600/ 3380 batches | lr 0.01 | ms/batch 30.99 | loss  3.96 | ppl    52.39
+| epoch  47 |   800/ 3380 batches | lr 0.01 | ms/batch 32.94 | loss  3.95 | ppl    51.74
